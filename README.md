@@ -7,7 +7,9 @@
 * `git commit -m "message"` - commit staged changes to local repository
 * `git log` - lists commit
 * `git log --oneline` - lists commits in compact format
-`git config --list` -  list current git configuration
+* `git config --list` -  list current git configuration
+* `git config --help` - list options and syntax for git config
+
 ### Remote Commands
 * `git pull origin main` - Pull remote branch `main` into current local branch
 * `git push origin main` - Push local commits to remote repository
